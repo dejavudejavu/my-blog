@@ -4,7 +4,7 @@ import { gitPlugin } from '@vuepress/plugin-git'
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/my-blog/",
+  base: "/",
 
   lang: "zh-CN",
   title: "美梦诚臻美术考研",
