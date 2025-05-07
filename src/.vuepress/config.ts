@@ -7,8 +7,8 @@ export default defineUserConfig({
   base: "/my-blog/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "美梦诚臻美术考研",
+  // description: "美梦诚臻美术考研",
 
   theme,
   plugins: [
