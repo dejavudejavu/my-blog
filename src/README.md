@@ -9,9 +9,9 @@ heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 文件
+    desc: 资料
+    link: https://pan.baidu.com/share/init?surl=sqL27w3GMwp_sA-NNFlRmQ&pwd=u1m4
 
   - icon: link
     name: 链接名称
